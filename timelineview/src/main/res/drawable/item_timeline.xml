@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/ellipse_inside"
+        >
+    </item>
+
+    <item
+        android:drawable="@drawable/ellipse_out"
+        >
+    </item>
+    <item
+        android:width="8dp"
+        android:height="10dp"
+        android:gravity="center"
+        android:drawable="@drawable/arrow_right_blue"
+        >
+    </item>
+</layer-list>

@@ -12,11 +12,12 @@
         android:id="@+id/timeline"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        app:markerSize="20dp"
-        app:lineWidth="3dp"
-        app:startLineColor="@color/colorAccent"
-        app:endLineColor="@color/colorAccent"
-        app:lineStyle="dash"/>
+        app:markerSize="40dp"
+        app:lineWidth="2dp"
+        app:linePadding="3dp"
+        app:startLineColor="#D4EEFF"
+        app:endLineColor="#D4EEFF"
+        app:lineStyle="normal"/>
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"

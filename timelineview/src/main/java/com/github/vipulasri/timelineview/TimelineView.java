@@ -100,7 +100,7 @@ public class TimelineView extends View {
         }
 
         if(mMarker == null) {
-            mMarker = getResources().getDrawable(R.drawable.marker);
+            mMarker = getResources().getDrawable(R.drawable.item_timeline);
         }
 
         initTimeline();
